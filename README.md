@@ -1,5 +1,5 @@
 # Silicombi Products
 サークル:Silicombi
 
-・Qi Shield　(Wireless Power Receiver for Arduino)
-・Qi Board　(Wireless Power Receiver for Breadboard)
+・Qi Shield　(Qi Wireless Charger Receiver for Arduino)
+・Qi Board　(Qi Wireless Charger Receiver for Breadboard)
